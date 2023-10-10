@@ -9,6 +9,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width{
   width: 50%;  
@@ -23,4 +24,6 @@ section{
     border-radius: 5%;
 
 }
-
+section{
+    display: flex;
+}
